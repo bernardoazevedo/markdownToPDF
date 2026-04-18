@@ -4,7 +4,7 @@
   <strong>Gere PDFs personalizados a partir de textos em Markdown</strong><br>
 </p>
 
-Disponível em: <a href="https://md2pdf.lat">Markdown Editor</a>
+Disponível em: <a href="https://md2pdf.space">Markdown Editor</a>
 
 ---
 
